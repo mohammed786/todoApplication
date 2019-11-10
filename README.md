@@ -7,6 +7,11 @@ This Project was build using React, Redux and LocalForage. I have created a simp
 - This application can be more enhanced by adding the bucket functionlity.
 - Currently I have used the localforage to store the todo data, instead it can be enhaced using the API.
 
+## Steps to Follow
+
+- Clone this repository
+- Go to the root folder and do `npm install`
+- Run any of the given script.
 
 ## Available Scripts
 
