@@ -1,0 +1,30 @@
+.container {
+  &-content {
+    margin: auto;
+    width: 100%;
+    button {
+      overflow: unset;
+      word-wrap: unset;
+    }
+  }
+}
+
+table {
+  text-align: left;
+  .th-sm {
+    min-width: 1rem !important;
+    padding-left: unset !important;
+  }
+  .custom-control-input {
+    color: black;
+    z-index: 999;
+    font-size: 2em;
+    opacity: 1;
+  }
+}
+
+.edge-header {
+  height: 126px !important;
+  background-color: #c9d1d3 !important;
+  font-size: 4em;
+}
